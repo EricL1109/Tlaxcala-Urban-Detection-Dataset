@@ -65,10 +65,10 @@ This dataset was designed to support research in:
 
 # Authors
 
-- Emilio Márquez Martínez
-- Ernesto Mendieta Cuecuecha
-- Jesús García Ramírez
-- Eric Ramos-Aguilar
+- Ing. Emilio Márquez Martínez
+- Ing. Ernesto Mendieta Cuecuecha
+- Dr. Jesús García Ramírez
+- Dr. Eric Ramos-Aguilar
 
 ---
 
