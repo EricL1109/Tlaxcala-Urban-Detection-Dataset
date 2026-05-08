@@ -69,6 +69,8 @@ This dataset was designed to support research in:
 - Ing. Ernesto Mendieta Cuecuecha
 - Dr. Jesús García Ramírez
 - Dr. Eric Ramos-Aguilar
+- Dra. Cecilia Reyes Peña
+- Dr. Lauro Reyes Cocoletzi
 
 ---
 
